@@ -144,7 +144,3 @@ function goTo(command){
 }
 
 
-console.log(rover)
-goTo('rffrffff')
-goTo('ffrfffllffff')
-console.log(rover.travelLog)
